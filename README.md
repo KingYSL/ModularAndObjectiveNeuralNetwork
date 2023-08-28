@@ -8,8 +8,8 @@ A highly optimized Neural Network framework with support for Feed Forward Percep
 1. Layered architecture
 1. High-level API for training and inference
 # Installation
-1.Git Clone
-1.Or Download
+1. Git Clone
+1. Or Download
 # Usage
 Here is a simple example to create a feed-forward neural network:
 
