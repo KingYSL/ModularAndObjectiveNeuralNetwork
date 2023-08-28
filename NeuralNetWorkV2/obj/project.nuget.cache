@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "63jxMnITx10aac8XGXbpRq7IyG8mpXi703X+o1r8jwyrceApOyKgh3qu+jLjuNbb91dLyVclr/iU6cAsOw/2XA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rhoza\\source\\repos\\NeuralNetWorkV2\\NeuralNetWorkV2\\NeuralNetWorkV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhoza\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
